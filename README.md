@@ -1,1 +1,1 @@
-https://riseupandgo.github.io/rsschool-cv/cv
+https://riseupandgo.github.io/rsschool-cv/
