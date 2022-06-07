@@ -1,2 +1,1 @@
-# rsschool-cv
-My first repository
+https://riseupandgo.github.io/rsschool-cv/cv
